@@ -8,6 +8,19 @@ You control a spaceship in either a single player or a two-player mode where the
 You will face mines making their wayward and unerring journey through space, mines that seem to be quite attracted to you and even those that 
 shoot fireballs. You win upon destruction of the final mine on the final level. Go nuts!!
 
+## INSTALLATION
+
+To simply play the game:
+- Download the latest build: https://game-project-assets.s3.amazonaws.com/Minestorm/build.zip
+- Extract the zip
+- Launch from "game.exe"
+
+To launch from Visual Studio:
+- Download ZIP of code & extract.
+- Download assets here: https://game-project-assets.s3.amazonaws.com/Minestorm/assets.zip
+- Extract assets
+- Place the assets folder 
+
 ### CONTROLS:
 
 Main Menu
