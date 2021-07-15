@@ -19,7 +19,7 @@ To launch from Visual Studio:
 - Download ZIP of code & extract.
 - Download assets here: https://game-project-assets.s3.amazonaws.com/Minestorm/assets.zip
 - Extract assets
-- Place the assets folder 
+- Place the assets folder in parent directory
 
 ### CONTROLS:
 
